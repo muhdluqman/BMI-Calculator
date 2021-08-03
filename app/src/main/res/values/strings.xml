@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="weight">Weight</string>
+    <string name="height">Height</string>
+    <string name="calculateBMI">Calculate BMI</string>
+
+    <string name="underweight">Underweight</string>
+    <string name="normal_weight">Normal Weight</string>
+    <string name="overweight">Overweight</string>
+    <string name="moderately_obese">Moderately Obese</string>
+    <string name="severely_obese">Severely Obese</string>
+    <string name="very_severely_obese">Very Severely Obese</string>
+
+    <string name="eheight">com.example.indivudualassignmrnt.eheight</string>
+    <string name="iweight">com.example.indivudualassignmrnt.iweight</string>
+<string name="j"> <a href="https://github.com/muhdluqman">Dveloped by Muhammad Luqman</a></string>
+</resources>
